@@ -148,7 +148,7 @@ The extension logs each preview:
 
 ## License
 
-Copyright © 2026 Zachary Burkhart.
+Copyright © 2026 Zach Burkhart.
 
 Lookdown is free software: you can redistribute it and/or modify it under the terms of the
 [GNU General Public License](LICENSE) as published by the Free Software Foundation, either version
