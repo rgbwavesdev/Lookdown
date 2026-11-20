@@ -1,0 +1,5 @@
+# Build output and packaged disk images
+build/
+dist/
+
+.DS_Store
