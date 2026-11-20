@@ -146,8 +146,18 @@ The extension logs each preview:
   preview again.
 - **Uninstall:** delete Lookdown from Applications and run `qlmanage -r`.
 
+## License
+
+Copyright © 2026 Zachary Burkhart.
+
+Lookdown is free software: you can redistribute it and/or modify it under the terms of the
+[GNU General Public License](LICENSE) as published by the Free Software Foundation, either version
+3 of the License, or (at your option) any later version. It is distributed in the hope that it will
+be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the license for details.
+
 ## Third-party code
 
 markdown-it 14.1.0, markdown-it-footnote 4.0.0 and markdown-it-mark 4.0.0 (MIT), highlight.js
-11.12.0 (BSD-3-Clause), KaTeX 0.19.1 (MIT), and icon paths from Lucide (ISC). Their licenses are in
-`Resources/vendor/licenses` and ship inside the app.
+11.12.0 (BSD-3-Clause), KaTeX 0.19.1 (MIT), and icon paths from Lucide (ISC). They keep their own
+licenses, which are in `Resources/vendor/licenses` and ship inside the app.

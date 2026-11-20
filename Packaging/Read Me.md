@@ -24,3 +24,7 @@ Open Lookdown any time to choose a theme (Warm, Clean or GitHub), light or dark,
 ## Uninstall
 
 Drag Lookdown from Applications to the Trash.
+
+## License
+
+Lookdown is free software under the GNU General Public License, version 3 or later. The source code is at https://github.com/rgbwavesdev/Lookdown.

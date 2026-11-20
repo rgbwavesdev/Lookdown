@@ -65,6 +65,7 @@ cp Info/App-Info.plist $APP/Contents/Info.plist
 copy_resources $APP/Contents/Resources
 cp Resources/sample.md $APP/Contents/Resources/
 cp -R Resources/vendor/licenses $APP/Contents/Resources/licenses
+cp LICENSE $APP/Contents/Resources/LICENSE   # Lookdown's own license (GPL v3 or later)
 
 if [[ ! -f build/AppIcon.icns || Tools/make_icon.swift -nt build/AppIcon.icns ]]; then
   ICONSET=build/AppIcon.iconset
